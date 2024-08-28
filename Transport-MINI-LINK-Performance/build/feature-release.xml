@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+    <product-id>CNA 403 3847</product-id>
+    <feature-name>Transport (MINI-LINK) Performance</feature-name>
+    <release>23.1</release>
+    <system-area>Transport</system-area>
+    <datasource-guid>0e81554f-ed55-498d-836c-d5f8ddbcfe7d</datasource-guid>
+    <ericsson-library>true</ericsson-library>
+</feature>
